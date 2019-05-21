@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">  
 <plist version="1.0">
 <dict>
     <key>items</key>
@@ -11,21 +11,12 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://loanapp.myserver.pet/lbtyhk.ipa</string>
+                    <string>http://c.lbtyhk.com/lbtyhk.ipa</string>
                 </dict>
                 <dict>
                    <key>kind</key>
                    <string>display-image</string>
                    <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://c.lbtyhk.com/img/desktopicon.png</string>
-               </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>full-size-image</string>
-                   <key>needs-shine</key>
-                   <true/>
                    <key>url</key>
                    <string>http://c.lbtyhk.com/img/desktopicon.png</string>
                </dict>
@@ -39,7 +30,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>lbtyhk</string>
+                <string>联播通航</string>
             </dict>
         </dict>
     </array>
